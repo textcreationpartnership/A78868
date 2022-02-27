@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings letter to the Marquesse of Ormond: and the Marquesse of Ormonds letter to Monroe. Relating the Kings whole design, concerning all the three kingdoms.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78868</idno>
+            <idno type="STC">Wing C2415</idno>
+            <idno type="STC">Thomason E340_5*</idno>
+            <idno type="STC">ESTC R200868</idno>
+            <idno type="EEBO-CITATION">99861494</idno>
+            <idno type="PROQUEST">99861494</idno>
+            <idno type="VID">159734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78868)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159734)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[5*])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings letter to the Marquesse of Ormond: and the Marquesse of Ormonds letter to Monroe. Relating the Kings whole design, concerning all the three kingdoms.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by I.C.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>Iune 8. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Ormonde's letter is dated: May 21, 1646; Charles I's is dated: Thirteenth of April, 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159734:1"/>
+            <pb facs="tcp:159734:1" rendition="simple:additions"/>
+            <p>THE KINGS LETTER To the Marqueſſe of ORMOND: AND The Marqueſſe of ORMONDS LETTER to MONROE.</p>
+            <p>
+               <hi>RELATING</hi> The Kings whole Deſign, concerning all the three Kingdoms.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, by <hi>I. C. Iune</hi> 8. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159734:2"/>
+            <pb n="1" facs="tcp:159734:2"/>
+            <head>TO MAJOR GENERALL MONRO.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving this Morning re<g ref="char:EOLhyphen"/>ceived a diſpatch from His Majeſtie, and Com<g ref="char:EOLhyphen"/>mand to impart it not onely to His Councell, but to all His Loyall Subjects: I am confident you have ſo good title to a
+<pb n="2" facs="tcp:159734:3"/>
+knowledge thereof, that I have held it my part inſtantly to diſpatch it unto you by an Expreſse, and ſo Sir, wiſhing you all hap<g ref="char:EOLhyphen"/>pineſse, Freſt</p>
+            <closer>
+               <signed>Your aſſured humble Servant, <hi>ORMOND.</hi>
+               </signed>
+               <dateline>Dublin Caſtle, <date>May 21. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Kings Letter to the Marqueſſe of <hi>ORMOND.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES REX.</signed>
+            </opener>
+            <p>RIght Truſty and entirely beloved Co<g ref="char:EOLhyphen"/>ſen and Councellor, we greete you well, having uſed all poſſible meanes
+<pb n="3" facs="tcp:159734:3"/>
+by ſending many gracious Meſſages to the two Houſes of Parliament, wherein we have offered all they have heretofore deſi<g ref="char:EOLhyphen"/>red from them nothing but what them<g ref="char:EOLhyphen"/>ſelves ſince theſe unhappy Warres have of<g ref="char:EOLhyphen"/>fered to procur a perſonall Treaty with them for a ſafe and and well grounded Peace, and having inſtead of a dutifull and peaceable returne to our ſaid Meſſages, re<g ref="char:EOLhyphen"/>received either no anſwer at all, or ſuch as argues nothing will ſatisfie them but the ruine; not only of us, our Poſterity and friends, but even of Monarchy it ſelfe.</p>
+            <p>And having lately received very good Security, that we and all that do or ſhall adhere to us, ſhall be ſafe in our Perſon, Ho<g ref="char:EOLhyphen"/>nour, and Conſciences in the Soo ch Army, and that they ſhall really and effectually joyne with us, and with ſuch as will come in unto us, and joyne with them for our preſervation and ſhall imply their Armies and forces to aſſiſt us to the procuring of an happy and well grounded Peace for the good of us, and our Kingdomes in the recovery of Our juſt right.</p>
+            <p>
+               <pb n="4" facs="tcp:159734:4"/>
+We have reſolved before Newark, And if it ſhall pleaſe God that we come ſafe thither, we are reſolved to uſe our beſt indeavours with their aſſiſtance, and with the con<g ref="char:EOLhyphen"/>junction of the forces under the marqueſſe of Montroſſe, and ſuch of our well affected Subjects of England as ſhall riſe for us to procure, if it may be an honourable and ſpeedy Peace with thoſe who have hitherto refuſed to give eare to any meanes tending thereunto.</p>
+            <p>Of which our reſolution we hould it ne<g ref="char:EOLhyphen"/>ceſſary to give you this advertizement as well to ſatisfie you and all our Councell, and loyall Subjects with you to whom we will that you communicate theſe our Let<g ref="char:EOLhyphen"/>ters, that failing in our deareſt and ſinceer endeavours by Treaty, to put an end to the miſeries of this our Kingdome, we eſteemed Our ſelfe obliged to leave no probable expe<g ref="char:EOLhyphen"/>dient unattempted to preſerve Our Crown and Friends from the uſurpation and tyran<g ref="char:EOLhyphen"/>nie of thoſe whoſe Actions declare ſo mani<g ref="char:EOLhyphen"/>feſtly their Deſign to overthrow the Lawes
+<pb n="5" facs="tcp:159734:4"/>
+and happy eſtabliſhed Government of this Kingdome.</p>
+            <p>And now We have made known unto you Our Reſolution, VVe re<g ref="char:EOLhyphen"/>commend to your ſpecial Care the diſpoſing and managing of Our Af<g ref="char:EOLhyphen"/>faires on that ſide, as you ſhall con<g ref="char:EOLhyphen"/>ceive moſt for Our Honour and Ser<g ref="char:EOLhyphen"/>vice, being confident the courſe VVe have taken (though with ſome haz<g ref="char:EOLhyphen"/>zard to Our Perſon) will have a good influence on that Our King<g ref="char:EOLhyphen"/>dome, and Defence, if not altogether prevent the <hi>Rebels</hi> tranſporting of Forces from thoſe Parts into that Kingdom.</p>
+            <p>And Wee deſire you to ſatisfie all Our wel-affected Subjects on that ſide, of Our Princely Care of them; whereof they ſhall receive the effect, as ſoone as God ſhal
+<pb n="6" facs="tcp:159734:5"/>
+enable Vs: Wee deſire you to uſe ſome meanes to let Us and Our Councell at <hi> Oxon:</hi> here frequently from you, and of your Actions and Conditions there. And ſo<hi>GOD</hi> proſper your Loyall Endea<g ref="char:EOLhyphen"/>vours.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Oxon:</hi> 
+                  <date>the Thirteenth of <hi>April,</hi> 1646.</date>
+               </dateline>
+               <signed>By His Majeſties Command.
+<hi>EDWARD NICHOLAS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
